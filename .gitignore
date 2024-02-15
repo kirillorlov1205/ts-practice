@@ -1,0 +1,11 @@
+node_modules
+allure-report
+allure-results
+coverage
+**/*.exe
+screenshots
+.vscode/settings.json
+**/test-results
+hw24/cypress/assets
+hw23/logs
+.vscode/

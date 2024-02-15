@@ -1,0 +1,27 @@
+**VS shortcuts usefull**
+
+- Erase line: Ctrl + X
+- New line bellow = Ctrl + Enter
+- New line above = Ctrl + Shift + Enter
+- Rename: F2
+- Show Usage: Shift + F12
+- Move code Up/Down: Alt + Arrow Up/Down
+- Dublicate selected area: Shift + Alt + Arrow down
+- Select context: Shift + Arrow right
+- Surround select area: Ctrl + K
+- Fold all: Ctrl + K + 0
+- Unfold all: Ctrl + K + J
+
+Must have!!!!!!!!!
+1) Move code Up/Down: Alt + Arrow Up/Down
+2) Select context: Shift + Alt + Arrow right
+3) Dublicate selected area: Shift + Alt + Arrow down
+4) Erase line: Ctrl + X
+5) Fold all: Ctrl + K + 0
+6) Unfold all: Ctrl + K + J
+7) Rename: F2
+9) Show Usage: Shift + F12
+10) Multiple comments: Shift + Alt + A
+11) Fold: Shift + Alt + [
+11) Unfold: Shift + Alt + ]
+12) selectHighlights: Shift + Alt + l
